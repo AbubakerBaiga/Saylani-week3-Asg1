@@ -1,0 +1,57 @@
+.hf{
+    height: 100px;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin: 10px;
+}
+#nav{
+    height: 50px;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 10px;
+}
+#body{
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+  
+}
+
+#leftContent{
+    height: 400px;
+    background-color: lightgray;
+    display: flex;
+    width: 20%;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#mainContent{
+    height: 400px;
+    background-color: lightgray;
+    display: flex;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+}
+#rightContent{
+    height: 400px;
+    background-color: lightgray;
+    display: flex;
+    width: 20%;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
